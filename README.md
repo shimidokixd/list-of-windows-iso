@@ -25,7 +25,7 @@ Windows 11 from Internet Archive - https://archive.org/search?query=windows+11+i
 Windows 11 24H2 from files.rg-adguard.net - https://files.rg-adguard.net/language/5cb45d32-e302-4fd4-e235-55664af1b3aa
 ## Windows 10
 > [!WARNING]
-> After October 14, 2025, Windows 10 will no longer receive free software updates, technical support, or security fixes. This means your PC will be more vulnerable to security threats and malware (this doesn't apply to the LTSC edition). 
+> After October 14, 2025, Windows 10 will no longer receive free software updates, technical support, or security fixes. This means your PC will be more vulnerable to security threats and malware (this doesn't apply to the LTSC-editions). 
 ### Offical
 **Official download page - https://www.microsoft.com/en-us/software-download/windows10**
 
@@ -67,6 +67,10 @@ Windows 7 (Updated May 2011) from files.rg-adguard.net - https://files.rg-adguar
 
 Windows 7 (Updated August 2018, **only English**) from files.rg-adguard.net - https://files.rg-adguard.net/files/6d8e70d3-9ee8-5182-f51d-278b04a8a9ad
 ## Other ISO
+### Windows 10 / 11 Enterprise LTSC-versions (not Evaluation)
+Windows 10 / 11 Enterprise LTSC/IoT Enterprise LTSC from Massgrave - https://massgrave.dev/windows_ltsc_links#download-links
+
+Windows 10 IoT Enterprise LTSC (**only English and Russian languages, website in Russian language**) from softcomputers.org - https://softcomputers.org/download/distr-windows/windows-10-iot-enterprise-ltsc-2021/
 ### Windows XP
 Windows XP SP2-SP3 VL from Massgrave - https://massgrave.dev/windows_xp_links
 
@@ -79,7 +83,7 @@ Download speed may be severely reduced due to heavy load on Internet Archive ser
 
 Windows XP SP3 from files.rg-adguard.net - https://files.rg-adguard.net/language/8b14fa9b-f6dd-dcb4-6090-a4e029200481
 
-Windows XP from Old-DOS.net (**website in Russian language**) - http://old-dos.ru/index.php?page=files&mode=files&do=show&id=4404
+Windows XP (**website in Russian language**) from Old-DOS.net - http://old-dos.ru/index.php?page=files&mode=files&do=show&id=4404
 ### Windows Vista
 Windows Vista MSDN SP0-SP1-SP2 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-vista-sp0-sp1-sp2-msdn-iso-files-en-de-ru-tr-x86-x64
 > [!NOTE]
