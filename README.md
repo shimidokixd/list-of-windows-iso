@@ -48,7 +48,7 @@ Windows 8.1 from Massgrave - https://massgrave.dev/windows_8.1_links
 
 Windows 8.1 from Internet Archive - https://archive.org/search?query=windows+8.1+iso
 
-Windows 8.1 with Update 3 from files.rg-adguard.net (international) - https://files.rg-adguard.net/language/1c50237d-03ef-617b-41f0-a7c44b76e808
+Windows 8.1 with Update 3 from files.rg-adguard.net - https://files.rg-adguard.net/language/1c50237d-03ef-617b-41f0-a7c44b76e808
 
 Windows 8.1 (Updated January 2018, **only English and for Virtual Machines**) from files.rg-adguard.net - https://files.rg-adguard.net/files/6ddd7449-4369-e580-fdb2-65a1c62c1394
 ## Windows 7
@@ -59,6 +59,30 @@ Windows 7 from Massgrave - https://massgrave.dev/windows_7_links
 
 Windows 7 from Internet Archive - https://archive.org/search?query=windows+7+iso
 
-Windows 7 (Updated May 2011, international) from files.rg-adguard.net - https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
+Windows 7 MSDN SP0-SP1 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-7-sp0-sp1-msdn-iso-files-en-de-ru-tr-x86-x64
+> [!NOTE]
+> Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows 7 (Updated May 2011) from files.rg-adguard.net - https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
 
 Windows 7 (Updated August 2018, **only English**) from files.rg-adguard.net - https://files.rg-adguard.net/files/6d8e70d3-9ee8-5182-f51d-278b04a8a9ad
+## Other ISO
+### Windows XP
+Windows XP SP2-SP3 VL from Massgrave - https://massgrave.dev/windows_xp_links
+
+Windows XP from Internet Archive - https://archive.org/search?query=windows+xp+iso
+
+Windows XP MSDN SP0-SP1-SP2-SP3 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-xp-all-sp-msdn-iso-files-en-de-ru-tr-x86-x64
+> [!NOTE]
+> VL-versions SP1-SP2 don't have ISO-files in German, Turkish and Russian languages.
+Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows XP SP3 from files.rg-adguard.net - https://files.rg-adguard.net/language/8b14fa9b-f6dd-dcb4-6090-a4e029200481
+
+Windows XP from Old-DOS.net (**website in Russian language**) - http://old-dos.ru/index.php?page=files&mode=files&do=show&id=4404
+### Windows Vista
+Windows Vista MSDN SP0-SP1-SP2 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-vista-sp0-sp1-sp2-msdn-iso-files-en-de-ru-tr-x86-x64
+> [!NOTE]
+> Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows Vista SP2 from files.rg-adguard.net - https://files.rg-adguard.net/language/7639fac9-2977-69dd-e02e-d0609bc3435e
