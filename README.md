@@ -1,4 +1,4 @@
-# List of Windows ISO (beta)
+# List of Windows ISO
 > [!WARNING]
 > **Piracy is illegal in most countries, so download Windows ISOs from third-party sources at your own risk. I will not be held responsible for your actions.**
 
