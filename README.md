@@ -106,3 +106,14 @@ Windows 95 from Internet Archive - https://archive.org/search?query=windows+95+i
 Windows 95 from WinWorld - https://winworldpc.com/product/windows-95/
 > [!WARNING]
 > Most 95 CDs are **NOT BOOTABLE**. If a download does not include a boot floppy, please see [Microsoft Windows Boot Disks](https://winworldpc.com/product/microsoft-windows-boot-disk/95-osr2x/).
+## Unofficial builds of Windows
+> [!CAUTION]
+> **Piracy is illegal in most countries. Also some builds may contain viruses, so download Windows ISOs from third-party sources at your own risk. I will not be held responsible for your actions.**
+
+Windows 7 SP1 AIO x86-64 (**only English**) from Internet Archive - https://archive.org/details/Windows7SP1ENGAIOx86x64
+
+Windows 7 SP1 Multi-Language AIO x64 from Internet Archive - https://archive.org/details/win-7-multi-lang-x64
+
+Windows 7 SP1 AIO Fully Updated (**only English**) from Internet Archive - https://archive.org/details/windows-7-sp1-aio-x64-fully-updated
+> [!WARNING]
+> **DO NOT ATTEMPT TO UPGRADE USING THIS ISO!** This ISO is NOT meant to perform UPGRADES to existing Windows installs. This ISO is meant to perform **CLEAN INSTALLS (by booting from the media) ONLY**. If you'd like to upgrade an existing Windows install, consider Windows Anytime Upgrade and Legacy Update.
