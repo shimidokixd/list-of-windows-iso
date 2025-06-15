@@ -90,3 +90,27 @@ Windows Vista MSDN SP0-SP1-SP2 (**only English, German, Russian and Turkish lang
 > Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows Vista SP2 from files.rg-adguard.net - https://files.rg-adguard.net/language/7639fac9-2977-69dd-e02e-d0609bc3435e
+### Windows 2000
+Windows 2000 Professional (**only English**) from Internet Archive - https://archive.org/details/win2kproiso
+
+Windows 2000 from Internet Archive - https://archive.org/search?query=windows+2000+iso
+> [!NOTE]
+> Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows 2000 from WinWorld - https://winworldpc.com/product/windows-nt-2000/final
+### Windows 98
+Windows 98 from Internet Archive - https://archive.org/search?query=windows+98+iso
+> [!NOTE]
+> Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows 98 from WinWorld - https://winworldpc.com/product/windows-98/
+### Windows 95
+Windows 95 OSR 2 (**only English**) from Internet Archive - https://archive.org/details/win-95-osr-2
+
+Windows 95 from Internet Archive - https://archive.org/search?query=windows+95+iso
+> [!NOTE]
+> Download speed may be severely reduced due to heavy load on Internet Archive servers.
+
+Windows 95 from WinWorld - https://winworldpc.com/product/windows-95/
+> [!WARNING]
+> Most 95 CDs are **NOT BOOTABLE**. If a download does not include a boot floppy, please see [Microsoft Windows Boot Disks](https://winworldpc.com/product/microsoft-windows-boot-disk/95-osr2x/).
