@@ -2,6 +2,9 @@
 > [!WARNING]
 > **Piracy is illegal in most countries, so download Windows ISOs from third-party sources at your own risk. I will not be held responsible for your actions.**
 
+> [!NOTE]
+> If you are downloading ISO from Internet Archive, we remind you that the download may be greatly reduced due to high server load.
+
 > [!TIP]
 > To download Windows from your region on the *Official download page*, you need to change *en-us* for example to *pl-pl* or *ru-ru* (depending on your region).
 ## Windows 11
@@ -60,8 +63,6 @@ Windows 7 from Massgrave - https://massgrave.dev/windows_7_links
 Windows 7 from Internet Archive - https://archive.org/search?query=windows+7+iso
 
 Windows 7 MSDN SP0-SP1 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-7-sp0-sp1-msdn-iso-files-en-de-ru-tr-x86-x64
-> [!NOTE]
-> Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows 7 (Updated May 2011) from files.rg-adguard.net - https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
 
@@ -79,37 +80,28 @@ Windows XP from Internet Archive - https://archive.org/search?query=windows+xp+i
 Windows XP MSDN SP0-SP1-SP2-SP3 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-xp-all-sp-msdn-iso-files-en-de-ru-tr-x86-x64
 > [!NOTE]
 > VL-versions SP1-SP2 don't have ISO-files in German, Turkish and Russian languages.
-Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows XP SP3 from files.rg-adguard.net - https://files.rg-adguard.net/language/8b14fa9b-f6dd-dcb4-6090-a4e029200481
 
 Windows XP (**website in Russian language**) from Old-DOS.net - http://old-dos.ru/index.php?page=files&mode=files&do=show&id=4404
 ### Windows Vista
 Windows Vista MSDN SP0-SP1-SP2 (**only English, German, Russian and Turkish languages**) from Internet Archive - https://archive.org/details/windows-vista-sp0-sp1-sp2-msdn-iso-files-en-de-ru-tr-x86-x64
-> [!NOTE]
-> Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows Vista SP2 from files.rg-adguard.net - https://files.rg-adguard.net/language/7639fac9-2977-69dd-e02e-d0609bc3435e
 ### Windows 2000
 Windows 2000 Professional (**only English**) from Internet Archive - https://archive.org/details/win2kproiso
 
 Windows 2000 from Internet Archive - https://archive.org/search?query=windows+2000+iso
-> [!NOTE]
-> Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows 2000 from WinWorld - https://winworldpc.com/product/windows-nt-2000/final
 ### Windows 98
 Windows 98 from Internet Archive - https://archive.org/search?query=windows+98+iso
-> [!NOTE]
-> Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows 98 from WinWorld - https://winworldpc.com/product/windows-98/
 ### Windows 95
 Windows 95 OSR 2 (**only English**) from Internet Archive - https://archive.org/details/win-95-osr-2
 
 Windows 95 from Internet Archive - https://archive.org/search?query=windows+95+iso
-> [!NOTE]
-> Download speed may be severely reduced due to heavy load on Internet Archive servers.
 
 Windows 95 from WinWorld - https://winworldpc.com/product/windows-95/
 > [!WARNING]
