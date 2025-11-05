@@ -28,7 +28,7 @@ Windows 11 from Internet Archive - https://archive.org/search?query=windows+11+i
 Windows 11 24H2 from files.rg-adguard.net - https://files.rg-adguard.net/language/5cb45d32-e302-4fd4-e235-55664af1b3aa
 ## Windows 10
 > [!WARNING]
-> After October 14, 2025, Windows 10 will no longer receive free software updates, technical support, or security fixes. This means your PC will be more vulnerable to security threats and malware (this doesn't apply to the LTSC-editions). 
+> Aftet October 14, 2025, Windows 10 will no longer receive free software updates, technical support, or security fixes. This means your PC will be more vulnerable to security threats and malware (this doesn't apply to the LTSC-editions, which support ends at 2032). 
 ### Offical
 **Official download page - https://www.microsoft.com/en-us/software-download/windows10**
 
